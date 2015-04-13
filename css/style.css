@@ -4,3 +4,19 @@ h1 {font-family: serif;
 	color:blue;}
 h2 {font-family: sans-serif;
 	color:blue;}
+
+/*rochelle's rules*/
+body {
+	margin: 0;
+}
+
+.container {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.img-md {
+	height: 300px;
+	width: auto;
+	float: left;
+}
