@@ -1,18 +1,21 @@
+/*
 body {background-color: aliceblue}
 p {color: dodgerblue;}
 h1 {font-family: serif;
 	color:blue;}
 h2 {font-family: sans-serif;
 	color:blue;}
+*/
 
 /*rochelle's rules*/
 html, body {
 	font-family: sans-serif;
-	color: fuchsia;
+	color: dodgerblue;
 }
 
 body {
 	margin: 0;
+	background: #000;
 }
 
 .container {
@@ -27,5 +30,11 @@ body {
 
 figure {
 	display: inline-block;
+	margin: 0;
+}
+
+figcaption {
+	color: #fff;
+	font-size: 12px;
 }
 
